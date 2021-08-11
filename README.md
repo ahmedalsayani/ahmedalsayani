@@ -1,5 +1,7 @@
 Hi, My Name is Ahmed Esa, My age is "13" i'am from Yemen I have two Certificates, A Simple Developer 😁
 
+<img align="center" src="https://discord.c99.nl/widget/theme-1/541058217002663939.png"/> 
+
  <h2 align="center">MY GITHUB STATS 👨‍💻</h1>
   <div align="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=AhmedTeckk&show_icons=true&theme=tokyonight"/>
